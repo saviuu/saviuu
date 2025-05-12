@@ -13,7 +13,7 @@ Atualmente estudando e construindo projetos com foco em:
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas:
 
 <div style="display: flex; gap: 10px;">
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
