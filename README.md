@@ -4,9 +4,10 @@ Sou o Sávio, um desenvolvedor apaixonado por tecnologia!
 Atualmente estudando e construindo projetos com foco em:
 
 - 💻 C# e .NET  
-- 🧠 SQL Server, Oracle PLSQL
+- 🧠 SQL Server, Oracle PLSQL, PostgreSQL
 - 🏗️ DDD, SOLID, Clean Architecture
-- 📡 SignalR, APIs, GraphQL, Web Apps  
+- 📡 SignalR, APIs, GraphQL, Web Apps
+- 📫 Docker, RabbitMQ
 - 🌱 Angular em paralelo  
 
 💼 Desenvolvedor Full Stack na [Operacional.com](https://www.operacional.com)  
